@@ -2,7 +2,7 @@
 
 EonHub Panel is a fast and responsive admin panel for iOS 3rd Party AppStores.
 
-  - Used by the EonHub [@EonHubApp]
+  - Used by EonHub [@EonHubApp]
   - 100% Open Source
 
 ### Features
