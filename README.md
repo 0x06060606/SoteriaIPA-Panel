@@ -10,13 +10,6 @@ EonHub Panel is a fast and responsive admin panel for iOS 3rd Party AppStores.
 * Resign IPA's
 * Cert Signing Status
 
-### Installation
-```
-cd path/to/420Signer/folder/
-chmod 777 420
-chmod 777 420Signer
-```
-
 License
 ----
 GNU General Public License v3.0
