@@ -11,6 +11,7 @@ EonHub Panel is a fast and responsive admin panel for iOS 3rd Party AppStores.
 ### Features
 * Upload IPA's
 * Resign IPA's
+* PLIST Generation
 * Cert Signing Status
 * DYLIB Injection
 * SMS /or EMAIL Notifications
